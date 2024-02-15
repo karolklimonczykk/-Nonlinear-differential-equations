@@ -19,4 +19,27 @@ text console window, file).<br><br> Two common design patterns will be used in t
 <li> observer objects will have access to the calculation results during the simulation and will be able to transmit these results to various destinations </li>
 </ul>
 </p>
- 
+ <h2>Languages and Utilities Used</h2>
+
+- <b>Java</b> (SE 21 LTS)
+- <b>Java Swing</b> (GUI)
+
+<h2>Environments Used</h2>
+
+- <b>IntelliJ IDEA 2023.3.3</b>
+
+<h2>Libraries Used</h2>
+
+- javax.swing.*
+- java.awt.*
+- java.io.*
+- java.lang.*
+- java.util.*
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Launching the application <br/>
+<img src="https://i.imgur.com/I4g8PfM.png" width="80%" alt ="waitingForOpp"  width="80%"/>
+<br />
+<br />
