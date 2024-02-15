@@ -37,9 +37,11 @@ text console window, file).<br><br> Two common design patterns will be used in t
 - java.util.*
 
 <h2>Program walk-through:</h2>
-
+<p>
+ Solver package - contains elements related to the process of obtaining a solver object and conducting simulations.
+</p>
 <p align="center">
-Launching the application <br/>
-<img src="https://i.imgur.com/I4g8PfM.png" width="80%" alt ="waitingForOpp"  width="80%"/>
+Class diagram of the solver package <br/>
+<img src="https://i.imgur.com/ujZAXjb.png" width="80%" alt ="solverDiagram"  width="80%"/>
 <br />
 <br />
