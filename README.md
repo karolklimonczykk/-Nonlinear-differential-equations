@@ -42,8 +42,8 @@ text console window, file).<br><br> Two common design patterns will be used in t
 </p>
 <p align="center">
 Class diagram of the solver package <br/>
-<img src="https://i.imgur.com/ujZAXjb.png" width="80%" alt ="SolverDiagram" style="float:left"/>
-<img src="https://i.imgur.com/upHIawP.png" alt="PackageSol" style="float:left"/>
+<img src="https://i.imgur.com/ujZAXjb.png" width="70%" alt ="SolverDiagram" style="float:left"/>
+<img src="https://i.imgur.com/upHIawP.png" alt="PackageSol"  width="20%" style="float:left"/>
 <br />
 <br />
 <p>
@@ -51,8 +51,8 @@ Observer design pattern - track simulation progress and send results to defined 
 </p>
 <p align="center">
 Class diagram of the observer package <br/>
-<img src="https://i.imgur.com/h8kRS2e.png" width="50%" alt ="ObserverDiagram"  style="float:left"/>
-<img src="https://i.imgur.com/n9BjF3d.png" alt="PackageObs" style="float:left"/>
+<img src="https://i.imgur.com/h8kRS2e.png" width="70%" alt ="ObserverDiagram"  style="float:left"/>
+<img src="https://i.imgur.com/n9BjF3d.png" width="20%" alt="PackageObs" style="float:left"/>
 </p>
 <p align="center">
 First look: <br/>
