@@ -42,7 +42,7 @@ text console window, file).<br><br> Two common design patterns will be used in t
 </p>
 <p align="center">
 Class diagram of the solver package <br/>
-<img src="https://i.imgur.com/ujZAXjb.png" width="80%" alt ="SolverDiagram"  width="80%"/>
+<img src="https://i.imgur.com/ujZAXjb.png" width="80%" alt ="SolverDiagram"/>
 <br />
 <br />
 <p>
@@ -50,16 +50,17 @@ Observer design pattern - track simulation progress and send results to defined 
 </p>
 <p align="center">
 Class diagram of the observer package <br/>
-<img src="https://i.imgur.com/h8kRS2e.png" width="80%" alt ="ObserverDiagram"  width="80%"/>
+<img src="https://i.imgur.com/h8kRS2e.png" width="80%" alt ="ObserverDiagram"  />
 </p>
 <p align="center">
 First look: <br/>
-<img src="https://i.imgur.com/VTYV8Tv.png" width="80%" alt ="Interface"  width="80%"/>
+<img src="https://i.imgur.com/VTYV8Tv.png" width="80%" alt ="Interface" />
 </p>
 <p align="center">
 Saving reults to other places: <br/>
-<img src="https://i.imgur.com/G7x02S3.png" width="80%" alt ="Adding"  width="80%"/>
-<img src="https://i.imgur.com/sDz7lu0.png" width="80%" alt ="file"  width="80%"/>
+<img src="https://i.imgur.com/G7x02S3.png" width="80%" alt ="Adding" />
+<img src="https://i.imgur.com/sDz7lu0.png" width="80%" alt ="file"/>
+<img src="https://i.imgur.com/3ZuIM4k.png" width="80%" alt="console"/>
  
 </p>
 
