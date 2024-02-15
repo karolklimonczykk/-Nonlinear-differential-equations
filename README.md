@@ -17,7 +17,7 @@ text console window, file).<br><br> Two common design patterns will be used in t
 <ul>
 <li> the manufacturing method will be used to obtain the specific solver object on based on the user's selection before starting the calculations </li>
 <li> observer objects will have access to the calculation results during the simulation and will be able to transmit these results to various destinations </li>
-</ul> <br><br>
+</ul> <br>
 
 Solver design pattern - contains elements related to the process of obtaining a solver object and conducting simulations.
 
