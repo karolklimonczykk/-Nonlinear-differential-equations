@@ -42,8 +42,7 @@ text console window, file).<br><br> Two common design patterns will be used in t
 </p>
 <p align="center">
 Class diagram of the solver package <br/>
-<img src="https://i.imgur.com/ujZAXjb.png" width="70%" alt ="SolverDiagram" style="float:left"/>
-<img src="https://i.imgur.com/upHIawP.png" alt="PackageSol" height="30%"  width="20%" style="float:left"/>
+<img src="https://i.imgur.com/zUGjdMq.png" width="80%" alt ="SolverDiagram" />
 <br />
 <br />
 <p>
