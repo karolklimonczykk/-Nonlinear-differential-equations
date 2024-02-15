@@ -58,9 +58,9 @@ First look: <br/>
 </p>
 <p align="center">
 Saving reults to other places: <br/>
-<img src="https://i.imgur.com/G7x02S3.png" width="80%" alt ="Adding" />
+<img src="https://i.imgur.com/G7x02S3.png" width="80%" alt ="Adding" style="float:left"/>
 <img src="https://i.imgur.com/sDz7lu0.png" width="80%" alt ="file"/>
-<img src="https://i.imgur.com/3ZuIM4k.png" width="80%" alt="console"/>
+<img src="https://i.imgur.com/3ZuIM4k.png" width="80%" alt="console" style="float:left"/>
  
 </p>
 
