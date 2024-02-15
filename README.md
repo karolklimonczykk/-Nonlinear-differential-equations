@@ -7,9 +7,9 @@
 <p>
 Calculation using one of three numerical methods solving differential equations (solvers):
 <ol> 
-<li>first degree (Euler)</li>
-<li>second degree degree (Heun)</li>
-<li>fourth degree (standard Runge-Kutta method)</li>
+<li>(1) first degree (Euler)</li>
+<li>(2) second degree degree (Heun)</li>
+<li>(3) fourth degree (standard Runge-Kutta method)</li>
 </ol>
 For simplicity, we assume that the physical parameters and time step will be permanently saved in the application code. The user will be able to select one of the available solvers and provide it
 simulation time (Tk), initial tilt angle from the vertical position (Alpha) and initial speed angular (Omega). It can also indicate target places for outputting simulation results (panel with the JList component,
