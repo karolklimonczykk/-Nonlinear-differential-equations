@@ -54,7 +54,7 @@ Class diagram of the observer package <br/>
 <img src="https://i.imgur.com/n9BjF3d.png" width="20%" alt="PackageObs" style="float:left"/>
 </p>
 <p align="center">
-Lunching the apllication: <br/>
+Launching the apllication: <br/>
 <img src="https://i.imgur.com/VTYV8Tv.png" width="80%" alt ="Interface" />
 </p>
 <p align="center">
