@@ -29,14 +29,6 @@ text console window, file).<br><br> Two common design patterns will be used in t
 
 - <b>IntelliJ IDEA 2023.3.3</b>
 
-<h2>Libraries Used</h2>
-
-- javax.swing.*
-- java.awt.*
-- java.io.*
-- java.lang.*
-- java.util.*
-
 <h2>Program walk-through:</h2>
 <p>Solver design pattern - contains elements related to the process of obtaining a solver object and conducting simulations.
 </p>
